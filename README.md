@@ -1,5 +1,5 @@
 # Predictive-Modeling-for-Agriculture
-# Crop Prediction
+
 
 ## About the Project
 In this project, I used machine learning to explore soil data and find which soil feature is best for predicting the type of crop to grow.
